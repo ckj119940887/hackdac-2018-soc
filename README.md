@@ -1,3 +1,6 @@
+## This repo is no longer supported. Please visit the offical Hack@DAC repo via the link below.
+https://github.com/hackdac/hackdac_2018_beta
+
 # Hack@DAC 2018 Phase 2 Buggy SoC
 
 ![](doc/Buggy_SoC.png)
